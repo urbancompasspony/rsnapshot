@@ -1,0 +1,2 @@
+# rsnapshot
+Some config!

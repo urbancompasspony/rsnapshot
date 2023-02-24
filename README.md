@@ -1,2 +1,2 @@
 # rsnapshot
-Some config!
+Some config for SUDO cron
